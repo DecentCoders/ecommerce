@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     '@nuxt/ui',
     '@nuxt/test-utils',
     '@nuxt/image',
-    '@nuxt/eslint'
+    '@nuxt/eslint',
+    // '@prisma/nuxt'
   ]
 })
