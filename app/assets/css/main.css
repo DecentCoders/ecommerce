@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+.dark {
+  /* Set background to black */
+  --ui-bg: #1e1b1b; /* Pure black */
+}
